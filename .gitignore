@@ -207,7 +207,7 @@ marimo/_lsp/
 __marimo__/
 # local env + data
 venv/
-data/
 .env
 .ipynb_checkpoints/
- 
+data/raw/
+data/processed/
