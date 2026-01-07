@@ -101,11 +101,5 @@ Interpretation:
 
 This project demonstrates a complete, realistic baseline credit risk workflow suitable for regulated environments.
 
----
 
-## 8. Next Steps
-- Freeze baseline model
-- Add documentation (README)
-- Optional: experiment with boosted trees for comparison (not replacement)
-- Prepare model explanation for interview and portfolio review
 
