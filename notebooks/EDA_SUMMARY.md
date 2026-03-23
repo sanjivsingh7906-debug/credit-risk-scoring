@@ -67,6 +67,7 @@ A regularized logistic regression was chosen as the primary baseline because:
 - Coefficients are interpretable
 - Monotonic signals are preserved
 - Model is stable under small data perturbations
+- Standard scaling was applied for simplicity; in production, binary/dummy features are typically left unscaled.
 
 Results:
 - ROC AUC ≈ 1.0 on small sample (expected due to dataset size)
